@@ -1,2 +1,2 @@
 # ci-cd-test
-basic testing of CI/CD
+This is a basic testing of CI/CD
